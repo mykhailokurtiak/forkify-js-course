@@ -127,7 +127,7 @@ const controlAddRecipe = async function (newRecipe) {
 };
 
 const newFeature = function () {
-  console.log('welcome to ne application 😇');
+  console.log('welcome to application 😇 NEW-Feature');
 };
 
 const init = function () {
